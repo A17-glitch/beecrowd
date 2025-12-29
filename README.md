@@ -32,15 +32,20 @@ Each file name corresponds to the **BeeCrowd problem ID**.
    git clone https://github.com/YourUsername/BeeCrowd-Solutions.git
 
 2. Compile a solution:
+   <br>
   g++ problem_1001.cpp -o problem1001
   ./problem1001
 
 📅 Progress & Updates
 This repository contains problems solved during my early university days.
 I may upgrade it in the future by:
+</br>
 -> Adding explainations/comments for each problem.
+<br>
 -> Uploading additional solved problems.
 
 📄 License
+<br>
 This repository is for educational purpose only.
+<br>
 You are welcome to learn from it, but please do not copy solutions for direct submission.
